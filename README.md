@@ -4,6 +4,9 @@ meu nome é jose lucas
 
 A palavra **limão** deve ser destacada.
 
+> Escrito por Alura Start
+
+
 <!--
 **pilotorusso/pilotorusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
