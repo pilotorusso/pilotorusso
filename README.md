@@ -6,6 +6,9 @@ A palavra **limão** deve ser destacada.
 
 > Escrito por Alura Start
 
+![image](https://github.com/pilotorusso/pilotorusso/assets/169733565/0927537d-b937-4321-84a5-45722e478e1b)
+
+
 
 <!--
 **pilotorusso/pilotorusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
