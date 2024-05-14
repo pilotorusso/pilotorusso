@@ -1,6 +1,9 @@
 ### Olá 👋
 
 meu nome é jose lucas
+
+A palavra **limão** deve ser destacada.
+
 <!--
 **pilotorusso/pilotorusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
